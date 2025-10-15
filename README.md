@@ -1,6 +1,6 @@
 # ollie g's game dev portfolio august 18th im a freshman now
 
-##Projects done in T1
+## Projects done in T1
 
 ### Gamename
 
