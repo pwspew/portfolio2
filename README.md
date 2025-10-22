@@ -8,12 +8,8 @@ This game was created using Processing, using Object-Oriented Programming to str
 ![Running Game](https://github.com/pwspew/portfolio2/blob/main/images/spacelook.png?raw=true)
 ### Downloads:
 <a href="https://github.com/pwspew/portfolio2/blob/main/src/SpaceGameofDoom/windows-amd64.zip">
-  <img src="https://github.com/pwspew/portfolio2/blob/main/images/windlogo.png" alt="Windows" width="50">
+  <img src="https://github.com/pwspew/portfolio2/blob/main/images/windlogo.png" alt="Windows" width="50" style="margin-right:10px;">
 </a>
-
-
-
-
 
 
 
