@@ -2,10 +2,10 @@
 
 ## Projects done in T1
 
-### Gamename
+### Space Game of Doom !!!
 
-SpaceGame I used ArrayList
-
+This game was created using Processing, using Object-Oriented Programming to structure and manage in-game entities. Core game elements such as players, enemies, projectiles, or obstacles are kept as distinct classes, allowing for scalable and easily maintainable code.
+## The tapeworm in my game was very necessary
 ![Running Game](https://github.com/pwspew/portfolio2/blob/main/images/spacelook.png?raw=true)
 
 * [Windows](https://github.com/pwspew/portfolio2/blob/main/src/SpaceGameofDoom/windows-amd64.zip)
