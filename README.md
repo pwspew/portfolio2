@@ -1,4 +1,4 @@
-# ollie g's game dev portfolio august 18th im a freshman now
+# ollie g's game dev portfolio 
 
 ## Projects done in T1 of freshman year 2025
 
@@ -6,7 +6,7 @@
 
 This game was created using Processing, using Object-Oriented Programming to structure and manage in-game entities. Core game elements such as players, enemies, projectiles, or obstacles are kept as distinct classes, allowing for scalable and easily maintainable code.
 ![Running Game](https://github.com/pwspew/portfolio2/blob/main/images/spacelook.png?raw=true)
-### Downloads for the game:
-* [Windows](https://github.com/pwspew/portfolio2/blob/main/src/SpaceGameofDoom/windows-amd64.zip)
+### Downloads:
+* [Windows] [![windlogo.png] (https://github.com/pwspew/portfolio2/blob/main/images/windlogo.png)] (https://github.com/pwspew/portfolio2/blob/main/src/SpaceGameofDoom/windows-amd64.zip)
 * [MacOS](https://github.com/pwspew/portfolio2/blob/main/src/SpaceGameofDoom/macos-aarch64.zip)
 * [Source Code]()
