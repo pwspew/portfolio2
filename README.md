@@ -1,4 +1,4 @@
-# ollie g's game dev portfolio 
+# ollie g's game dev/computer processing portfolio 
 
 ## Projects done in T1 of freshman year 2025
 
@@ -18,5 +18,7 @@ This small project was created using Processing, using Object-Oriented Programmi
 </a>
 
 &nbsp;
+### Castle Corridors
 
+This project was built with mostly the same framework as the Previous Space Game of Doom, But instead of the player following the mouse it is a set position changed by key presses. The game follows The Servant, who needs to run from his corrupted King, The lion. You must travel through his corridors collecting items that empower you and defeating his soldier until exit is available.
 [Source Code]()
