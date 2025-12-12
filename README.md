@@ -1,6 +1,6 @@
 # ollie g's game dev/computer processing portfolio 
-
-## Projects done in T1 of freshman year 2025
+Welcome to my portfolio it's really cool 
+# Projects done in T1 of freshman year 2025
 
 ### Space Game of Doom !!!
 
