@@ -5,7 +5,7 @@
 ### Space Game of Doom !!!
 
 This small project was created using Processing, using Object-Oriented Programming to structure and manage in-game entities. Core game elements such as players, enemies, projectiles, or obstacles are kept as classes, allowing for scalable and easily maintainable code.
-![Running Game](https://github.com/pwspew/portfolio2/blob/main/images/spacelook.png?raw=true)
+![Running Game SGD](https://github.com/pwspew/portfolio2/blob/main/images/spacelook.png?raw=true)
 ### Downloads:
 <a href="https://github.com/pwspew/portfolio2/blob/main/src/SpaceGameofDoom/windows-amd64.zip">
   <img src="https://github.com/pwspew/portfolio2/blob/main/images/windlogo.png" alt="Windows" width="50">
@@ -19,6 +19,6 @@ This small project was created using Processing, using Object-Oriented Programmi
 
 &nbsp;
 ### Castle Corridors
-
+![Running Game CC](https://github.com/pwspew/portfolio2/blob/main/images/gameshotofcc.png)
 This project was built with mostly the same framework as the Previous Space Game of Doom, But instead of the player following the mouse it is a set position changed by key presses. The game follows The Servant, who needs to run from his corrupted King, The lion. You must travel through his corridors collecting items that empower you and defeating his soldier until exit is available.
 [Source Code]()
