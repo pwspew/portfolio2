@@ -5,7 +5,7 @@ Welcome to my portfolio it's really cool
 ### Space Game of Doom !!!
 
 
-![Running Game SGD](https://github.com/pwspew/portfolio2/blob/main/images/spacelook.png?raw=true)
+![Running Game SGD](https://github.com/pwspew/portfolio2/blob/main/images/spacelook.png)
 This small project was created using Processing, using Object-Oriented Programming to structure and manage in-game entities. Core game elements such as players, enemies, projectiles, or obstacles are kept as classes, allowing for scalable and easily maintainable code.
 ### Downloads:
 <a href="https://github.com/pwspew/portfolio2/blob/main/src/SpaceGameofDoom/windows-amd64.zip">
