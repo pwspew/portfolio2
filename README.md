@@ -1,7 +1,6 @@
 # Oliver Gingrich's Portfolio for Future Jobs or something
 Welcome to my portfolio it's really cool 
 I am a big fan of video games
-#### Some of my favorites:
 
 # Projects done in T1 of freshman year 2025
 
