@@ -12,9 +12,6 @@ This small project was created using Processing, using Object-Oriented Programmi
 
 &nbsp;
 
-<a href="https://github.com/pwspew/portfolio2/blob/main/src/SpaceGameofDoom/macos-aarch64.zip">
-  <img src="https://github.com/pwspew/portfolio2/blob/main/images/applogo.png" alt="MacOS" width="50">
-</a>
 
 &nbsp;
 ## [Castle Corridors](https://github.com/pwspew/castlecorridors "Castle Corridors")
