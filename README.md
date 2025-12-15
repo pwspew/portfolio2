@@ -22,3 +22,4 @@ This project was built with mostly the same framework as the Previous Space Game
 
 
 ## [SkiFree 25](https://github.com/pwspew/compProcessing-project-skifree "SkiFree 25")
+![Running Game SF25](https://github.com/pwspew/portfolio2/blob/main/images/skishot.png)
