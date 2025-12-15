@@ -18,9 +18,9 @@ This small project was created using Processing, using Object-Oriented Programmi
 ![Running Game CC](https://github.com/pwspew/portfolio2/blob/main/images/gameshotofcc.png)
 This project was built with mostly the same framework as the Previous Space Game of Doom, But instead of the player following the mouse it is a set position changed by key presses. The game follows The Servant, who needs to run from his corrupted King, The lion. You must travel through his corridors collecting items that empower you and defeating his soldier until exit is available.
 
+&nbsp;
 
-
-
+&nbsp;
 ## [SkiFree 25](https://github.com/pwspew/compProcessing-project-skifree "SkiFree 25")
 ![Running Game SF25](https://github.com/pwspew/portfolio2/blob/main/images/skishot.png)
 This project was a re-iteration of a very very old game called SkiFree. It was for Windows 3.0 in 1991, and came with the OS pre-installed. We kept everything the same, but with extra tricks and a little more modern graphics.
