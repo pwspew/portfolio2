@@ -4,7 +4,7 @@ I am a big fan of video games
 
 # Projects done in T1 of freshman year 2025
 
-### [Space Game of Doom](https://github.com/pwspew/portfolio2/tree/main/src/SpaceGameofDoom "Space Game of Doom !!!")
+## [Space Game of Doom](https://github.com/pwspew/portfolio2/tree/main/src/SpaceGameofDoom "Space Game of Doom !!!")
 
 
 ![Running Game SGD](https://github.com/pwspew/portfolio2/blob/main/images/spacelook.png)
@@ -21,6 +21,6 @@ This small project was created using Processing, using Object-Oriented Programmi
 </a>
 
 &nbsp;
-### [Castle Corridors](https://github.com/pwspew/castlecorridors "Castle Corridors")
+## [Castle Corridors](https://github.com/pwspew/castlecorridors "Castle Corridors")
 ![Running Game CC](https://github.com/pwspew/portfolio2/blob/main/images/gameshotofcc.png)
 This project was built with mostly the same framework as the Previous Space Game of Doom, But instead of the player following the mouse it is a set position changed by key presses. The game follows The Servant, who needs to run from his corrupted King, The lion. You must travel through his corridors collecting items that empower you and defeating his soldier until exit is available.
