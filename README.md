@@ -9,10 +9,6 @@ I am a big fan of video games
 
 ![Running Game SGD](https://github.com/pwspew/portfolio2/blob/main/images/spacelook.png)
 This small project was created using Processing, using Object-Oriented Programming to structure and manage in-game entities. Core game elements such as players, enemies, projectiles, or obstacles are kept as classes, allowing for scalable and easily maintainable code.
-### Downloads:
-<a href="https://github.com/pwspew/portfolio2/blob/main/src/SpaceGameofDoom/windows-amd64.zip">
-  <img src="https://github.com/pwspew/portfolio2/blob/main/images/windlogo.png" alt="Windows" width="50">
-</a>
 
 &nbsp;
 
