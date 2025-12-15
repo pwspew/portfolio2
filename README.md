@@ -1,4 +1,4 @@
-# ollie g's game dev/computer processing portfolio 
+# Oliver Gingrich's Portfolio for Future Jobs or Something
 Welcome to my portfolio it's really cool 
 # Projects done in T1 of freshman year 2025
 
