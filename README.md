@@ -4,7 +4,7 @@ I am a big fan of video games
 ![me i am great](https://github.com/pwspew/portfolio2/blob/main/images/meawesome.gif)
 # Projects done in T1 of freshman year 2025
 
-## [Space Game of Doom](https://github.com/pwspew/portfolio2/tree/main/src/SpaceGameofDoom "Space Game of Doom !!! (<--- click for the repository)")
+## [Space Game of Doom !!!](https://github.com/pwspew/portfolio2/tree/main/src/SpaceGameofDoom "Space Game of Doom !!! (<--- click for the repository)")
 
 
 ![Running Game SGD](https://github.com/pwspew/portfolio2/blob/main/images/spacelook.png)
