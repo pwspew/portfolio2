@@ -23,4 +23,5 @@ This project was built with mostly the same framework as the Previous Space Game
 &nbsp;
 ## [SkiFree 25](https://github.com/pwspew/compProcessing-project-skifree "SkiFree 25")
 ![Running Game SF25](https://github.com/pwspew/portfolio2/blob/main/images/skishot.png)
+
 This project was a re-iteration of a very very old game called SkiFree. It was for Windows 3.0 in 1991, and came with the OS pre-installed. We kept everything the same, but with extra tricks and a little more modern graphics.
