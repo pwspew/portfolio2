@@ -1,6 +1,6 @@
 # Oliver Gingrich's Portfolio for Future Jobs or something
-Welcome to my portfolio it's really cool 
-I am a big fan of video games
+### Welcome to my portfolio it's really cool 
+### I am a big fan of video games
 ![me i am great](https://github.com/pwspew/portfolio2/blob/main/images/meawesome.gif)
 # Projects done in T1 of freshman year 2025
 
