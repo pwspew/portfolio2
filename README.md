@@ -7,7 +7,7 @@
 ## [Space Game of Doom !!! (<--- click for the repository)](https://github.com/pwspew/portfolio2/tree/main/src/SpaceGameofDoom "Space Game of Doom !!! (<--- click for the repository)")
 
 
-![Running Game SGD](https://github.com/pwspew/portfolio2/blob/main/images/spacelook.png)
+![Running Game SGD](/images/spacelook.png)
 This small project was created using Processing, using Object-Oriented Programming to structure and manage in-game entities. Core game elements such as players, enemies, projectiles, or obstacles are kept as classes, allowing for scalable and easily maintainable code.
 
 &nbsp;
