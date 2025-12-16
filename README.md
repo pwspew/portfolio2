@@ -1,7 +1,7 @@
 # Oliver Gingrich's Portfolio for Future Jobs or something
 ### Welcome to my portfolio it's really cool 
 ### I am a big fan of video games
-![me i am great](https://github.com/pwspew/portfolio2/blob/main/images/meawesome.gif)
+![me i am great](./images/meawesome.gif)
 # Projects done in T1 of freshman year 2025
 
 ## [Space Game of Doom !!! (<--- click for the repository)](https://github.com/pwspew/portfolio2/tree/main/src/SpaceGameofDoom "Space Game of Doom !!! (<--- click for the repository)")
